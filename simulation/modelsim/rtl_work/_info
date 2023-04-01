@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/fryer/simulation/modelsim
+vbuzzer_beep
+Z1 !s110 1677911817
+!i10b 1
+!s100 ZWL:h9IgF^dgF?SL7>bAZ3
+I1F=F`6iQL_07A3M=iQ7_D1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1676865275
+8D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/buzzer_beep.v
+FD:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/buzzer_beep.v
+L0 1
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1677911817.763000
+!s107 D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/buzzer_beep.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB|D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/buzzer_beep.v|
+!i113 0
+Z4 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 !s92 -vlog01compat -work work {+incdir+D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB} -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vdebounce
+Z6 !s110 1677911818
+!i10b 1
+!s100 5nXH^<Tb`RI@BDlg4LzK=2
+IT5=DzYhV:`Nj5<]dQ=Be_3
+R2
+R0
+w1667747326
+8D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/debounce.v
+FD:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/debounce.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1677911818.064000
+!s107 D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/debounce.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB|D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/debounce.v|
+!i113 0
+R4
+R5
+vfreq_div
+R1
+!i10b 1
+!s100 eb>6JDKTLN<MQ2WAH32m70
+IcFHQi;RN^IG>aHBLU=@<M0
+R2
+R0
+w1676859147
+8D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/freq_div.v
+FD:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/freq_div.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1677911817.428000
+!s107 D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/freq_div.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB|D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/freq_div.v|
+!i113 0
+R4
+R5
+vstate_control
+R6
+!i10b 1
+!s100 Z?PL:Uo98]0YBOZ?eWffT3
+ImQjLIK?[d[:2m3:EET3cN2
+R2
+R0
+w1676862083
+8D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/state_control.v
+FD:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/state_control.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1677911818.364000
+!s107 D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/state_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB|D:/DESKTOP/WANGHAO/WORKSPACE/Verilog_FPGA/Digital System Design LAB/state_control.v|
+!i113 0
+R4
+R5

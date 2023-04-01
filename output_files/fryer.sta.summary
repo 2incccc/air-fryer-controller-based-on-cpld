@@ -1,0 +1,29 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'clk_1Khz'
+Slack : -26.065
+TNS   : -474.056
+
+Type  : Setup 'seg_counter:u4|seg_en[1]'
+Slack : -3.115
+TNS   : -6.034
+
+Type  : Hold 'seg_counter:u4|seg_en[1]'
+Slack : -3.159
+TNS   : -6.318
+
+Type  : Hold 'clk_1Khz'
+Slack : -1.471
+TNS   : -3.847
+
+Type  : Minimum Pulse Width 'clk_1Khz'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'seg_counter:u4|seg_en[1]'
+Slack : 0.500
+TNS   : 0.000
+
+------------------------------------------------------------

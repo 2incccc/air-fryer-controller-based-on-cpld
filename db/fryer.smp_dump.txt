@@ -1,0 +1,6 @@
+
+State Machine - |fryer|state_control:u2|state
+Name state.IDLE state.FINISH state.WORK 
+state.IDLE 0 0 0 
+state.WORK 1 0 1 
+state.FINISH 1 1 0 
